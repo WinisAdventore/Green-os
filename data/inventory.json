@@ -1,0 +1,63 @@
+{
+  "moderator": [],
+  "Testacc": [
+    {
+      "id": "c49e2772",
+      "name": "TEST",
+      "type": "image",
+      "file": "Testacc_b1f12f0e.png",
+      "original_name": "test.png",
+      "added_at": "2026-02-25 21:39:17"
+    }
+  ],
+  "Создатель": [
+    {
+      "id": "0a9d62c5",
+      "name": "Медаль Создателя",
+      "type": "image",
+      "file": "Создатель_632c77dc.png",
+      "original_name": "OG.png",
+      "added_at": "2026-02-24 22:21:15"
+    },
+    {
+      "id": "6e5da9ee",
+      "name": "iconGoTeam",
+      "type": "image",
+      "file": "Создатель_fcaae4f3.png",
+      "original_name": "goteamicon.png",
+      "added_at": "2026-02-25 18:48:11"
+    },
+    {
+      "id": "2124d858",
+      "name": "Медаль постоянного гостя",
+      "type": "image",
+      "file": "Создатель_fcf1d614.png",
+      "original_name": "medalpostoanogochelovekopozodaniepostov.png",
+      "added_at": "2026-02-25 18:52:17"
+    },
+    {
+      "id": "ca25ab05",
+      "name": "КУБИК",
+      "type": "image",
+      "file": "Создатель_72d79eb6.png",
+      "original_name": "Untitled.png",
+      "added_at": "2026-02-25 21:18:53"
+    },
+    {
+      "id": "7c867967",
+      "name": "Розы",
+      "type": "image",
+      "file": "Создатель_a84edf91.png",
+      "original_name": "Untitled.png",
+      "added_at": "2026-02-25 21:21:30"
+    },
+    {
+      "id": "85cfcb35",
+      "name": "Rose",
+      "type": "image",
+      "file": "Создатель_d45f7e53.png",
+      "original_name": "Rose.png",
+      "added_at": "2026-02-25 21:24:22"
+    }
+  ]
+}

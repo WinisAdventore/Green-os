@@ -1,0 +1,31 @@
+[
+  {
+    "id": "bd3b09d0",
+    "title": "Это тест пост",
+    "content": "Это тест можете не отвечать на это",
+    "author": "Testacc",
+    "created_at": "2026-02-24 21:36:14",
+    "likes": 1,
+    "comment_count": 0,
+    "attachments": []
+  },
+  {
+    "id": "02bf70d3",
+    "title": "Всем привет",
+    "content": "Всем привет это мой проект GoTeam всем хорошего игры",
+    "author": "Создатель",
+    "created_at": "0000:00,00,00",
+    "likes": 1,
+    "comment_count": 2,
+    "attachments": [
+      {
+        "id": "1535cece",
+        "filename": "75be8cd7712f415a9096c9770201629f_goteamicon.png",
+        "original_name": "goteamicon.png",
+        "size": 586,
+        "uploaded_at": "2026-02-24 21:47:15",
+        "type": "image"
+      }
+    ]
+  }
+]

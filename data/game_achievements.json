@@ -1,0 +1,18 @@
+{
+  "2a0e5d26": [
+    {
+      "id": "ed1c38f0",
+      "name": "Включить",
+      "description": "ВКЛЮЧИТЬ ЗАПРЕт",
+      "icon": "Ахует"
+    }
+  ],
+  "b5c9a3dd": [
+    {
+      "id": "0e31ef27",
+      "name": "TEST",
+      "description": "TEST",
+      "icon": "TEST"
+    }
+  ]
+}
