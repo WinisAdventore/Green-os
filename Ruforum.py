@@ -4663,7 +4663,11 @@ def unban_user(username):
     return jsonify({'success': False, 'error': 'В разработке'})
 
 if __name__ == '__main__':
+    import os
     create_default_admins()
+    
+    # Для Render - берём порт из переменной окружения
+    port = int(os.environ.get('PORT', 5000))
     
     print("=" * 70)
     print("🎮 GoTeam - ЧЕРНО-БЕЛАЯ ТЕМА")
@@ -4689,10 +4693,8 @@ if __name__ == '__main__':
     print("👑 Админ: admin / admin123")
     print("👮 Модератор: moderator / admin123")
     print("=" * 70)
-    print("Сервер запущен: http://127.0.0.1:5000")
+    print(f"🌐 Сервер запущен на порту: {port}")
+    print(f"📡 Для Render используется порт: {port}")
     print("=" * 70)
     
-    if __name__ == '__main__':
-    import os
-    port = int(os.environ.get('PORT', 5000))
     app.run(host='0.0.0.0', port=port, debug=False)
